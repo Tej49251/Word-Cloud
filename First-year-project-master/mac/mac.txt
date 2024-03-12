@@ -1,0 +1,6 @@
+*Listed pricing is Maximum Retail Price (inclusive of all taxes).
+1TB = 1 trillion bytes; actual formatted capacity less.
+Screen size is measured diagonally.
+Testing conducted by Apple in October 2020 using pre-production 13-inch MacBook Pro systems with Apple M1 chip, 8GB of RAM and 512GB SSD. The Apple TV app movie playback test measures battery life by playing back 1080p HD content with display brightness set to 8 clicks from the bottom. Battery life varies by use and configuration. See apple.com/in/batteries for more information.
+Testing conducted by Apple in September 2021 using pre-production 14-inch MacBook Pro systems with Apple M1 Pro, 8-core CPU, 14-core GPU, 16GB of RAM and 512GB SSD. The Apple TV app movie playback test measures battery life by playing back 1080p HD content with display brightness set to 8 clicks from the bottom. Battery life varies by use and configuration. See apple.com/in/batteries for more information.
+Testing conducted by Apple in September 2021 using pre-production 16-inch MacBook Pro systems with Apple M1 Pro, 10-core CPU, 16-core GPU, 16GB of RAM and 1TB SSD. The Apple TV app movie playback test measures battery life by playing back 1080p HD content with display brightness set to 8 clicks from the bottom. Battery life varies by use and configuration. See apple.com/in/batteries for more information.
